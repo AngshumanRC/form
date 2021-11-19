@@ -1,0 +1,27 @@
+[
+	{
+		"id":1,
+		"fullName":"Angshuman",
+		"designation":"Engineer",
+		"role":"Team Lead",
+		"gender":"Male",
+		"salary":2000,
+		"city":"Guwahati",
+		"state":"Assam",
+		"zip":788005,
+		"address":"Silchar"
+	},
+
+	{
+		"id":2,
+		"fullName":"Animesh",
+		"designation":"Engineer",
+		"role":"Team Lead",
+		"gender":"Male",
+		"salary":2000,
+		"city":"Delhi",
+		"state":"Haryana",
+		"zip":788005,
+		"address":"Silchar"
+	}
+]
